@@ -23,5 +23,3 @@ variable "storage_account_replication" {
 variable "vnet_name" {
    description = "Azure Virtual Network"
 }
-
-
